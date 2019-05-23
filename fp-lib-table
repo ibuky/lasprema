@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name taneyats)(type KiCad)(uri C:/Users/ibuky/kicad/lib/taneyats.pretty)(options "")(descr ""))
+  (lib (name promicro)(type KiCad)(uri C:/Users/ibuky/kicad/lib/ProMicroKiCad-master/promicro.pretty)(options "")(descr ""))
+  (lib (name lasprema_v003)(type KiCad)(uri C:/Users/ibuky/kicad/lasprema_v003/logo.pretty)(options "")(descr ""))
+)
