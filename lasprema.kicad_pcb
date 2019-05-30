@@ -60,6 +60,7 @@
     (pad_to_mask_clearance 0.051)
     (solder_mask_min_width 0.25)
     (aux_axis_origin 0 0)
+    (grid_origin 95.143814 85.761712)
     (visible_elements 7FFFFFFF)
     (pcbplotparams
       (layerselection 0x010fc_ffffffff)
@@ -5767,7 +5768,6 @@
   (gr_line (start 86.983029 163.881776) (end 217.907977 193.309231) (layer Edge.Cuts) (width 0.05))
   (gr_line (start 69.08188 157.366289) (end 86.983029 163.881776) (layer Edge.Cuts) (width 0.05))
 
-  (via (at 217.907975 124.447514) (size 0.8) (drill 0.4) (layers F.Cu B.Cu) (net 71))
   (segment (start 230.200227 123.663125) (end 232.826472 123.663123) (width 0.254) (layer B.Cu) (net 1))
   (segment (start 227.858814 121.321713) (end 230.200227 123.663125) (width 0.254) (layer B.Cu) (net 1))
   (segment (start 226.67225 108.621713) (end 227.858817 109.808278) (width 0.254) (layer B.Cu) (net 1))
@@ -6651,6 +6651,7 @@
   (segment (start 336.99279 103.516125) (end 338.510879 100.260574) (width 0.254) (layer F.Cu) (net 70))
   (segment (start 335.624229 92.329569) (end 337.477498 97.421384) (width 0.254) (layer F.Cu) (net 70))
   (segment (start 337.477498 97.421384) (end 343.992981 115.322529) (width 0.254) (layer F.Cu) (net 70))
+  (via (at 217.907975 124.447514) (size 0.8) (drill 0.4) (layers F.Cu B.Cu) (net 71))
   (segment (start 228.493816 104.866713) (end 234.993815 104.866715) (width 0.254) (layer F.Cu) (net 71))
   (segment (start 228.493817 100.366716) (end 234.993815 100.366714) (width 0.254) (layer F.Cu) (net 72))
   (segment (start 225.527977 115.557513) (end 227.223815 113.861675) (width 0.254) (layer F.Cu) (net 72))

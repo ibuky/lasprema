@@ -15,7 +15,7 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L promicro:ProMicro U1
+L lasprema-rescue:ProMicro-promicro U1
 U 1 1 5CE4157F
 P 1600 1600
 F 0 "U1" H 1600 2637 60  0000 C CNN
